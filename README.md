@@ -154,6 +154,4 @@ A velocidade e a precisão variam conforme o idioma, a qualidade do áudio, o ha
 - Os arquivos `.srt` existentes com o mesmo nome-base podem ser sobrescritos.
 - Verifique as licenças e condições de distribuição das dependências e dos modelos antes de redistribuir o aplicativo.
 
-## Licença
 
-Defina aqui a licença do projeto antes de publicá-lo publicamente no GitHub.
